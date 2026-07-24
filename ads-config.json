@@ -1,6 +1,6 @@
 {
   "ads": true,
-  "banner": true,
+  "banner": false,
   "interstitial": true,
   "rewarded": true,
   "minIntervalSec": 180
