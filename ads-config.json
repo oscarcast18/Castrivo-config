@@ -1,0 +1,7 @@
+{
+  "ads": true,
+  "banner": true,
+  "interstitial": true,
+  "rewarded": true,
+  "minIntervalSec": 180
+}
